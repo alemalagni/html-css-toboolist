@@ -21,3 +21,10 @@ header {
         font-weight: bold;
     }
 }
+
+main {
+    background-color: #ffffff;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-top: 40px;
+}
