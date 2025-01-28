@@ -59,11 +59,11 @@ main {
     background-color: #f6f8f9;
     padding-bottom: 3px;
     border-bottom: 0px;
+    margin-bottom: 35px;
 }
 
 /* New Task */
 .elenco{
-    padding-top: 35px;
     padding-bottom: 35px;
     color: #434851;
     padding-left: 50px;
@@ -76,14 +76,17 @@ main {
     border-bottom: 0px;
 }
 
-.check{
+.spana{
     display: inline;
     border: 1px solid;
-    border-color: #2dc6ab;
     border-radius: 20px;
-    color: #2dc6ab;
     padding-left: 2.95px;
     padding-right: 2.95px;
+}
+
+#check{
+    border-color: #2dc6ab;
+    color: #2dc6ab;
 }
 
 .spanb{
