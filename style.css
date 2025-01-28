@@ -69,7 +69,7 @@ main {
 }
 
 .new{
-    font-size: 17px;
+    font-size: 20px;
     font-weight: bold;
     padding-bottom: 10px;
     border-bottom: 0px;
@@ -77,8 +77,11 @@ main {
 
 .check{
     display: inline;
-    margin: 2px;
-    width: 20px;
+    border: 1px solid;
+    border-color: #2dc6ab;
+    border-radius: 20px;
     color: #2dc6ab;
+    padding-left: 2.95px;
+    padding-right: 2.95px;
 }
 
