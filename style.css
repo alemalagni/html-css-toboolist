@@ -57,11 +57,12 @@ main {
 .divisore {
     background-color: #f6f8f9;
     padding-bottom: 3px;
-    margin-bottom: 35px;
+    border-bottom: 0px;
 }
 
 /* New Task */
 .elenco{
+    padding-top: 35px;
     padding-bottom: 35px;
     color: #434851;
     padding-left: 50px;
