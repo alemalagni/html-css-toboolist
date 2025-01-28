@@ -29,3 +29,24 @@ main {
     margin-right: 170px;
     margin-top: 40px;
 }
+
+.primo {
+    padding-top: 21px;
+    padding-bottom: 9px;
+    padding-left: 52px;
+}
+
+.task {
+    background-color: #14aaf5;
+    padding: 9px;
+    color: #ffffff;
+    border-radius: 7px;
+}
+
+.section{
+    border: 1px solid;
+    border-color: #c4cbd0;
+    padding: 9px;
+    color: #c4cbd0;
+    border-radius: 7px;
+}
