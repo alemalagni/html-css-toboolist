@@ -85,3 +85,14 @@ main {
     padding-right: 2.95px;
 }
 
+.spanb{
+    display: inline;
+    color: #ffffff;
+    font-size: 10px;
+    padding: 9px;
+}
+
+#editorial{
+    background-color: #14aaf5;
+}
+
