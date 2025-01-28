@@ -30,10 +30,13 @@ main {
     margin-top: 40px;
 }
 
+/* Primo contenitore */
 .primo {
-    padding-top: 21px;
+    padding-top: 30px;
     padding-bottom: 9px;
     padding-left: 52px;
+    margin-bottom: 9px;
+    
 }
 
 .task {
@@ -49,4 +52,14 @@ main {
     padding: 9px;
     color: #c4cbd0;
     border-radius: 7px;
+}
+/* Divisore */
+.divisore {
+    background-color: #f6f8f9;
+    padding-bottom: 3px;
+}
+
+/* New Task */
+.elenco{
+    padding-bottom: 35px;
 }
