@@ -108,3 +108,19 @@ main {
     padding-bottom: 20px;
 }
 
+#Q1 {
+    background-color: #ab5de6;
+}
+
+#cross {
+    border-color: #ff1010;
+    color: #ff1010;
+}
+
+#recruiting {
+    background-color: #2cc6ab;
+}
+
+#mobile {
+    background-color: #ff9b00;
+}
