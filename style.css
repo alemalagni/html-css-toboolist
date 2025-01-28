@@ -77,11 +77,13 @@ main {
 }
 
 .spana{
-    display: inline;
+    display: inline-block;
     border: 1px solid;
     border-radius: 20px;
-    padding-left: 2.95px;
-    padding-right: 2.95px;
+    height: 15px;
+    width: 15px;
+    font-size: 10px;
+    text-align: center;
 }
 
 #check{
