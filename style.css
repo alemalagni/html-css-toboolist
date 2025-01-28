@@ -68,3 +68,14 @@ main {
     padding-left: 50px;
 }
 
+.new{
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 0px;
+}
+
+.check{
+    color: #2dc6ab;
+}
+
