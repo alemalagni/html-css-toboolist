@@ -76,6 +76,9 @@ main {
 }
 
 .check{
+    display: inline;
+    margin: 2px;
+    width: 20px;
     color: #2dc6ab;
 }
 
